@@ -12,4 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Test pushing new commit
+    //New line for another commit
 }
